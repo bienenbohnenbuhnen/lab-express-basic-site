@@ -158,3 +158,9 @@ h1 {
   padding: 5px 5px 5px 5px;
   cursor: pointer;
 }
+
+#home-page-pic {
+  width: 25%;
+  height: 40%;
+  margin-left: 37%;
+}
